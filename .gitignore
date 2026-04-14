@@ -1,0 +1,25 @@
+# Compiled output
+*.exe
+*.o
+*.obj
+*.out
+build/
+Debug/
+Release/
+x64/
+x86/
+
+# IDE files
+.vs/
+*.vcxproj.user
+.idea/
+*.sln.docProps/
+
+# OS files
+Thumbs.db
+.DS_Store
+
+*.slnx
+*.vcxproj
+*.vcxproj.filters
+*.sln
